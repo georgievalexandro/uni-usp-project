@@ -4,4 +4,4 @@ Dva
 Tri reda kod
 
 
-Malko konflikt stana tuka
+Malko konflikt
